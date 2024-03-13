@@ -24,13 +24,17 @@ pip install streamlit hashlib
 
 ## Como Executar
 
-Para executar o aplicativo, basta executar o seguinte comando no terminal:
+Para executar o aplicativo localmente, basta executar o seguinte comando no terminal:
 
 ```bash
 streamlit run gerador_de_hash.py
 ```
 
 Isso iniciará o servidor do Streamlit e abrirá o aplicativo em seu navegador padrão.
+
+## Acesso Online
+
+Este aplicativo também está disponível online. Você pode acessá-lo através deste [link](https://gerador-de-hashes-sam.streamlit.app/).
 
 ## Contribuições
 
