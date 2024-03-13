@@ -34,7 +34,7 @@ Isso iniciará o servidor do Streamlit e abrirá o aplicativo em seu navegador p
 
 ## Acesso Online
 
-Este aplicativo também está disponível online. Você pode acessá-lo através deste [link](https://gerador-de-hashes-sam.streamlit.app/).
+Este aplicativo também está disponível online. Você pode acessá-lo através deste [link](https://gerador-de-hashes.streamlit.app/).
 
 ## Contribuições
 
